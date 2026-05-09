@@ -1,0 +1,204 @@
+{
+  "countries": [
+    {
+      "country": "Haiti",
+      "country_vi": "Haiti",
+      "independence_date": "01-01",
+      "year": 1804,
+      "from": "France",
+      "from_vi": "Pháp",
+      "flag": "🇭🇹",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Paraguay",
+      "country_vi": "Paraguay",
+      "independence_date": "05-14",
+      "year": 1811,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇵🇾",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Argentina",
+      "country_vi": "Argentina",
+      "independence_date": "07-09",
+      "year": 1816,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇦🇷",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Chile",
+      "country_vi": "Chile",
+      "independence_date": "09-18",
+      "year": 1810,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇨🇱",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Colombia",
+      "country_vi": "Colombia",
+      "independence_date": "07-20",
+      "year": 1810,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇨🇴",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Mexico",
+      "country_vi": "Mexico",
+      "independence_date": "09-16",
+      "year": 1810,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇲🇽",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Venezuela",
+      "country_vi": "Venezuela",
+      "independence_date": "07-05",
+      "year": 1811,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇻🇪",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Ecuador",
+      "country_vi": "Ecuador",
+      "independence_date": "08-10",
+      "year": 1809,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇪🇨",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Peru",
+      "country_vi": "Peru",
+      "independence_date": "07-28",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇵🇪",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Brazil",
+      "country_vi": "Brazil",
+      "independence_date": "09-07",
+      "year": 1822,
+      "from": "Portugal",
+      "from_vi": "Bồ Đào Nha",
+      "flag": "🇧🇷",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Bolivia",
+      "country_vi": "Bolivia",
+      "independence_date": "08-06",
+      "year": 1825,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇧🇴",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Uruguay",
+      "country_vi": "Uruguay",
+      "independence_date": "08-25",
+      "year": 1825,
+      "from": "Brazil",
+      "from_vi": "Brazil",
+      "flag": "🇺🇾",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Dominican Republic",
+      "country_vi": "Cộng hoà Dominica",
+      "independence_date": "02-27",
+      "year": 1844,
+      "from": "Haiti",
+      "from_vi": "Haiti",
+      "flag": "🇩🇴",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Cuba",
+      "country_vi": "Cuba",
+      "independence_date": "05-20",
+      "year": 1902,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇨🇺",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Guatemala",
+      "country_vi": "Guatemala",
+      "independence_date": "09-15",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇬🇹",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Honduras",
+      "country_vi": "Honduras",
+      "independence_date": "09-15",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇭🇳",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "El Salvador",
+      "country_vi": "El Salvador",
+      "independence_date": "09-15",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇸🇻",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Nicaragua",
+      "country_vi": "Nicaragua",
+      "independence_date": "09-15",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇳🇮",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Costa Rica",
+      "country_vi": "Costa Rica",
+      "independence_date": "09-15",
+      "year": 1821,
+      "from": "Spain",
+      "from_vi": "Tây Ban Nha",
+      "flag": "🇨🇷",
+      "reminder_days_before": [7, 3, 1]
+    },
+    {
+      "country": "Panama",
+      "country_vi": "Panama",
+      "independence_date": "11-03",
+      "year": 1903,
+      "from": "Colombia",
+      "from_vi": "Colombia",
+      "flag": "🇵🇦",
+      "reminder_days_before": [7, 3, 1]
+    }
+  ]
+}

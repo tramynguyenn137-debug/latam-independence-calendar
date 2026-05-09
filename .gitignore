@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+portuguese-flashcard/frontend/node_modules/
+Buổi 1/
+Buổi 2/
