@@ -2,6 +2,6 @@ __pycache__/
 *.pyc
 .env
 node_modules/
-portuguese-flashcard/frontend/node_modules/
-Buổi 1/
-Buổi 2/
+portuguese-flashcard/
+outputs/docx_b64.txt
+*.txt
